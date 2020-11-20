@@ -1,4 +1,4 @@
-# Angular Todo App
+# Angular 11 Todo App
 
 This repo contain the basic ToDo app for learning. Divided components for todo-form ,todo-list and to.
 
