@@ -1,6 +1,6 @@
-# MyDreamApp
+# Angular Todo App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
+This repo contain the basic ToDo app for learning. Divided components for todo-form ,todo-list and to.
 
 ## Development server
 
