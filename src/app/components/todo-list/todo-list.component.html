@@ -1,0 +1,7 @@
+<ul>
+  <li *ngFor="let todo of todos" [ngClass]="{ 'checked':todo.completed}">
+  	<input type="checkbox" (click)="markTodo(todo)" [checked]="todo.completed" >
+  	{{ todo.title}}
+  	<span class="close" (click)="deleteTodo(todo.id)">X</span>
+  </li>
+</ul>
